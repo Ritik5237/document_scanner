@@ -21,4 +21,4 @@ Analyze sampling and quantization effects on document images.
 
 ## How to Run
 ```bash
-python scanner.py
+python3 scanner.py
